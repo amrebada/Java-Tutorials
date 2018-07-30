@@ -7,7 +7,7 @@ package com.amrebada.javatuts.generics;
 
 /**
  *
- * @author AmrvEbada <amr.ebada@itv-me.com>
+ * @author AmrvEbada  
  */
 public class Car extends Transport{
 

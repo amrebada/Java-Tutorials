@@ -9,7 +9,7 @@ import java.util.ArrayList;
 
 /**
  *
- * @author AmrvEbada <amr.ebada@itv-me.com>
+ * @author AmrvEbada  
  */
 public class TransportOrganizer<T extends Transport> {
 
